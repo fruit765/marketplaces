@@ -1,0 +1,9 @@
+{
+  "name": "access-rules",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "private": true,
+  "type": "module"
+}
