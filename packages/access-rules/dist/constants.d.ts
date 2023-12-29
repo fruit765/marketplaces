@@ -11,7 +11,7 @@ export declare const ROLE_NAMES: {
 };
 export declare const ACCEPT_ROUTINGS_RULES: ({
     role: ERole.Developer;
-    path: "*";
+    path: "stock"[];
 } | {
     role: ERole.CallCenterAdmin;
     path: ("barcodes" | "auto-balancing" | "stock")[];

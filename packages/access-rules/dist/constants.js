@@ -12,7 +12,7 @@ export const ROLE_NAMES = {
 export const ACCEPT_ROUTINGS_RULES = [
     {
         role: ERole.Developer,
-        path: "*"
+        path: ["stock"]
     },
     {
         role: ERole.CallCenterAdmin,
